@@ -1,0 +1,15 @@
+.Nosotros{
+    display:flex !important;
+    justify-content: center !important;
+}
+
+.tit{
+    font-size: 50px !important;
+    color: #3A4778 !important;
+}
+
+.conte{
+    font-size: 20px !important;
+    color: #3A4778 !important;
+    text-align: justify;
+}
